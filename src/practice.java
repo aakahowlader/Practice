@@ -7,7 +7,7 @@ public class practice {
         Scanner myScanner= new Scanner(System.in);
         System.out.println("what is your first name i am adding this new line here" );
         String firstName = myScanner.nextLine();
-        System.out.println("your first name is:  " + firstName);
+        System.out.println("your first name is: i am adding stuff here " + firstName);
 
 
         System.out.println("Enter the course fee");
