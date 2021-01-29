@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nezun35N5iF9lrJKbs6cTzWN87" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,9 +31,16 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.InputPractice">
+  <component name="RunManager" selected="Application.mentoringPractice">
     <configuration name="InputPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InputPractice" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mentoringPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mentoringPractice" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -44,6 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mentoringPractice" />
         <item itemvalue="Application.InputPractice" />
         <item itemvalue="Application.practice" />
       </list>
@@ -79,22 +91,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1611765706814" />
-    <state width="1367" height="186" key="GridCell.Tab.0.bottom" timestamp="1611777105418">
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom" timestamp="1611888724663">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611777105418" />
-    <state width="1367" height="186" key="GridCell.Tab.0.center" timestamp="1611777105418">
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611888724663" />
+    <state width="1367" height="185" key="GridCell.Tab.0.center" timestamp="1611888724663">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611777105418" />
-    <state width="1367" height="186" key="GridCell.Tab.0.left" timestamp="1611777105418">
+    <state width="1367" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611888724663" />
+    <state width="1367" height="185" key="GridCell.Tab.0.left" timestamp="1611888724663">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611777105418" />
-    <state width="1367" height="186" key="GridCell.Tab.0.right" timestamp="1611777105418">
+    <state width="1367" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611888724663" />
+    <state width="1367" height="185" key="GridCell.Tab.0.right" timestamp="1611888724663">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611777105418" />
+    <state width="1367" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611888724663" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1611765636436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
